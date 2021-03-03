@@ -24,13 +24,6 @@ A presentation slide element that showcased a heat map of fertilizer product dem
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
 </p>
 
-## Simple Linear Regression | Day 2
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
-
-<p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
-</p>
-
 ## Excel | Pivot_Tables and Dashboards 
 
 An analytical dashboard that utilized advanced pivot table and filtering functions as a means of seeing monthly sales premiums and tons by selling location, product, and transport mode, allowing us to determine how our pricing at various locations compared to industry benchmarks
@@ -38,4 +31,9 @@ An analytical dashboard that utilized advanced pivot table and filtering functio
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Excel_Summary_Report.jpg">
 </p>
+
+
+## Simple Linear Regression | Day 2
+Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
+
 
