@@ -9,7 +9,7 @@ Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Tableau | Bubble Maps
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
+A presentation slide element that showcased storage locations relative to a manufacturing location.
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Bubble_Map_01.JPG">
@@ -18,7 +18,7 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 
 ## Tableau | Dual Axis Mapping
 
-A presentation slide element that showcased a heat map of fertilizer product demand, alongside a bubble map of producer location/capacity for said product.
+A presentation slide element that showcased a heat map of fertilizer product demand, alongside a bubble map of producer location/production capacity for said product.
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
