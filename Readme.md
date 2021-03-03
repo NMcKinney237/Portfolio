@@ -24,7 +24,7 @@ A presentation slide element that showcased a heat map of fertilizer product dem
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
 </p>
 
-## Excel | Pivot_Tables and Dashboards 
+## Excel | Pivot Tables and Dashboards 
 
 An analytical dashboard that utilized advanced pivot table and filtering functions as a means of seeing monthly sales premiums and tons by selling location, product, and transport mode, allowing us to determine how our pricing at various locations compared to industry benchmarks
 
