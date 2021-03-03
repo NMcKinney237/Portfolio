@@ -19,7 +19,7 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 ## Tableau | Dual Axis Mapping
 
 <p align="center">
-  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual%20Axis%20Map.png">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
 </p>
 
 ## Simple Linear Regression | Day 2
