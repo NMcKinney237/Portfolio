@@ -12,7 +12,7 @@ Also if someone wants to help me out in documentaion of code and already has som
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
-  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Bubble_Map_01.jpg">
+  <img src="https://github.com/NMcKinney237/blob/master/Portfolio/Graphics/Bubble_Map_01.jpg">
 </p>
 
 
