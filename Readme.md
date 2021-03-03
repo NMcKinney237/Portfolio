@@ -4,14 +4,6 @@
 
 Below are highlights and project samples related to my understanding of various softwares and code languages.
 
-## Tableau | Bubble Maps
-Seen below: 
-
-A presentation slide element that showcased industry-wide storage locations relative to a manufacturing location. 
-
-<p align="center">
-  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Bubble_Map_01.JPG">
-</p>
 
 
 ## Tableau | Dual Axis Mapping
@@ -22,6 +14,15 @@ A presentation slide element that was used alongside data tables to show the pos
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
+</p>
+
+## Tableau | Bubble Maps
+Seen below: 
+
+A presentation slide element that showcased industry-wide storage locations relative to a manufacturing location. 
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Bubble_Map_01.JPG">
 </p>
 
 ## Excel | Pivot Tables and Dashboards 
