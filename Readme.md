@@ -18,7 +18,7 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 
 ## Tableau | Dual Axis Mapping
 
-A board slide element that showcased a heat map of fertilizer product demand, alongside a bubble map of producer location/capacity for said product.
+A presentation slide element that showcased a heat map of fertilizer product demand, alongside a bubble map of producer location/capacity for said product.
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
