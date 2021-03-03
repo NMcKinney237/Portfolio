@@ -18,7 +18,7 @@ A presentation slide element that showcased industry-wide storage locations rela
 
 Seen below:  
 
-A presentation slide element that showcased a heat map of fertilizer product demand, alongside a bubble map of producer location/production capacity for said product.
+A presentation slide element that was used alongside data tables to show the positioning of U.S. producers relative to higher demand regions. The dual-axis consisted of a heat map of annual product demand alongside a bubble map showing producer location/production capacity.
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
