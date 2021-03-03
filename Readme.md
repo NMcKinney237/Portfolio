@@ -38,4 +38,14 @@ An analytical dashboard that utilized advanced pivot table and filtering functio
 ## Simple Linear Regression | Day 2
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
+## Excel / Mekko Graphics | Charting and Data Organization.
 
+Seen below:  
+
+A slide element that highlighted global product trade flows over the span of a given year. The project required the integration of multiple databases comprised of EU Commission data, internal data, as well as other industry publications.
+
+https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/EU_Trade.JPG
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/EU_Trade.JPG">
+</p>
