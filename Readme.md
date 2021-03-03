@@ -9,7 +9,9 @@ Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Tableau | Bubble Maps
-Seen below: A presentation slide element that showcased storage locations relative to a manufacturing location.
+Seen below: 
+
+A presentation slide element that showcased storage locations relative to a manufacturing location.
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Bubble_Map_01.JPG">
@@ -18,7 +20,9 @@ Seen below: A presentation slide element that showcased storage locations relati
 
 ## Tableau | Dual Axis Mapping
 
-Seen below:  A presentation slide element that showcased a heat map of fertilizer product demand, alongside a bubble map of producer location/production capacity for said product.
+Seen below:  
+
+A presentation slide element that showcased a heat map of fertilizer product demand, alongside a bubble map of producer location/production capacity for said product.
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
@@ -26,7 +30,9 @@ Seen below:  A presentation slide element that showcased a heat map of fertilize
 
 ## Excel | Pivot Tables and Dashboards 
 
-Seen below:  An analytical dashboard that utilized advanced pivot table and filtering functions as a means of seeing monthly sales premiums and tons by selling location, product, and transport mode, allowing us to determine how our pricing at various locations compared to industry benchmarks
+Seen below:  
+
+An analytical dashboard that utilized advanced pivot table and filtering functions as a means of seeing monthly sales premiums and tons by selling location, product, and transport mode, allowing us to determine how our pricing at various locations compared to industry benchmarks
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Excel_Summary_Report.jpg">
