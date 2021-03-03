@@ -7,7 +7,7 @@ Below are highlights and project samples related to my understanding of various 
 ## Tableau | Bubble Maps
 Seen below: 
 
-A presentation slide element that showcased storage locations relative to a manufacturing location.
+A presentation slide element that showcased industry-wide storage locations relative to a manufacturing location.
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Bubble_Map_01.JPG">
