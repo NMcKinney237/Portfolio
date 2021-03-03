@@ -31,5 +31,11 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
 
+## Excel | Pivot_Tables and Dashboards 
 
+An analytical dashboard that utilized advanced pivot table and filtering functions as a means of seeing monthly sales premiums and tons by selling location, product, and transport mode, allowing us to determine how our pricing at various locations compared to industry benchmarks
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Monthly%20Summary%20Report%20(Excel).jpg">
+</p>
 
