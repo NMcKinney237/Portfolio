@@ -1,0 +1,117 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Feb 24 14:02:31 2021
+
+@author: Nathan
+"""
+
+import pandas as pd
+import numpy as np
+import matplotlib
+
+
+# Import Data Files
+
+Customer = pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/olist_customers_dataset.csv')
+Geolocation = pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/olist_geolocation_dataset.csv')
+Order_Items = pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/olist_order_items_dataset.csv')
+Order_Payments = pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/olist_order_payments_dataset.csv')
+Order_Reviews = pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/olist_order_reviews_dataset.csv')
+Orders= pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/olist_orders_dataset.csv')
+Products= pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/olist_products_dataset.csv')
+Sellers= pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/olist_sellers_dataset.csv')
+Trans= pd.read_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/product_category_name_translation.csv')
+
+# Data Cleaning Work
+
+    # Reduce geolocation data to 3-4 characters
+
+Geolocation['geolocation_lat'].round(decimals = 3)
+Geolocation['geolocation_lng'].round(decimals = 3)
+
+
+
+    # Drop nonessential columns data from needed files
+
+#Sellers.drop(columns = ['seller_city', 'seller_state'])
+#Customer.drop(columns = ['customer_city', 'customer_state'])
+
+Products = Products.drop(columns = ['product_name_lenght', 
+               'product_description_lenght', 'product_photos_qty', 
+               'product_weight_g', 'product_length_cm', 
+               'product_height_cm', 'product_width_cm'])
+
+
+    # Bring in english translation for products
+
+Trans_join = pd.merge(Products, 
+                      Trans, 
+                      on = 'product_category_name', 
+                      how = 'left')
+
+
+
+
+#Create Seller Dataframe With Geolocation
+
+Seller_join = pd.merge(Sellers, 
+                       Geolocation, 
+                       how = 'left', 
+                       left_on = 'seller_zip_code_prefix', 
+                       right_on = 'geolocation_zip_code_prefix')
+
+Seller_join = Seller_join.drop(columns = ['geolocation_city', 
+                                          'geolocation_state', 
+                                          'geolocation_zip_code_prefix'])
+
+
+
+
+Seller_join.to_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/Seller_DB.csv', index=False)
+
+
+
+
+#Create Buyer Dataframe With Geolocation
+
+Buyer_join = pd.merge(Customer, 
+                     Geolocation, 
+                     how = 'left', 
+                     left_on = 'customer_zip_code_prefix', 
+                     right_on = 'geolocation_zip_code_prefix')
+
+#Buyer_join= Buyer_join.sort_values('customer_id')
+
+#Buyer_join = pd.concat(['customer_id'], axis = 1)
+
+#Buyer_join = pd.merge(Orders, 
+                     # Customer, 
+                     # how = 'left', 
+                     # left_on = 'customer_id', 
+                      #right_on = 'customer_id')
+
+#Buyer_join = pd.merge(Buyer_join, 
+                     #Geolocation, 
+                     #how = 'left', 
+                      #left_on = 'customer_zip_code_prefix', 
+                      #right_on = 'geolocation_zip_code_prefix')
+
+Buyer_join = Buyer_join.drop(columns = ['geolocation_city', 
+                                        'geolocation_state', 
+                                        'geolocation_zip_code_prefix'])
+
+#Buyer_join.to_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/Buyer_DB.csv', index=False)
+
+
+#Create Order Dataframe With Product Data
+
+Orders_join = pd.merge(Order_Items, 
+                      Trans_join, 
+                      how = 'left', 
+                      left_on = 'product_id', 
+                      right_on = 'product_id')
+
+Orders_join = Orders_join.drop(columns = ['order_item_id', 
+                                          'product_category_name'])
+
+Orders_join.to_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/Orders_DB.csv', index=False)
