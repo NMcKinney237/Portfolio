@@ -52,7 +52,7 @@ Trans_join = pd.merge(Products,
 
 
 
-#Create Seller Dataframe With Geolocation
+    #Create Seller Dataframe With Geolocation
 
 Seller_join = pd.merge(Sellers, 
                        Geolocation, 
@@ -72,7 +72,7 @@ Seller_join.to_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerc
 
 
 
-#Create Buyer Dataframe With Geolocation
+    #Create Buyer Dataframe With Geolocation
 
 Buyer_join = pd.merge(Customer, 
                      Geolocation, 
@@ -103,7 +103,7 @@ Buyer_join = Buyer_join.drop(columns = ['geolocation_city',
 #Buyer_join.to_csv('C:/Users/Nathan/OneDrive/Documents/Excel/Brazilian E_Commerce/Buyer_DB.csv', index=False)
 
 
-#Create Order Dataframe With Product Data
+    #Create Order Dataframe With Product Data
 
 Orders_join = pd.merge(Order_Items, 
                       Trans_join, 
