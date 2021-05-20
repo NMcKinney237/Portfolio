@@ -11,9 +11,27 @@ Seen below:  A code example where I cleaned and re-organized multiple e-commerce
 
 Data Cleaning Code:
 
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Data_Clean_1.JPG">
+</p>
 
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Data_Clean_2.JPG">
+</p>
 
-Quick Analysis Code:
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Data_Clean_3.JPG">
+</p>
+
+Quick Analysis Code and Data Package:
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Data_Query.JPG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Data_Result.JPG">
+</p>
 
 
 ## Tableau | Dual Axis Mapping
