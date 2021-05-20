@@ -5,6 +5,16 @@
 Below are highlights and project samples related to my understanding of various softwares and code languages.
 
 
+## Python | Data Cleaning and Development of Analysis Packages
+
+Seen below:  A code example where I cleaned and re-organized multiple e-commerce databases into a usable data package showing granular order data. I also established code that allowed for a quick query, cutting the file size for ease of use in Excel or Tableau.
+
+Data Cleaning Code:
+
+
+
+Quick Analysis Code:
+
 
 ## Tableau | Dual Axis Mapping
 
