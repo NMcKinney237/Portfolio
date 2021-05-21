@@ -41,9 +41,19 @@ A Tableau dashboard comprised of e-commerce data. Built in functionality include
 
 Link to Tableau dashboard:  https://public.tableau.com/profile/nathan.mckinney8188#!/vizhome/BrazilE-CommerceData/Dashboard1
 
+Original
+
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Brazilian_Dashboard.JPG">
 </p>
+
+Filtered
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Brazilian_Dashboard_Filter.JPG">
+</p>
+
+Map
 
 <p align="center">
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dashboard_Map.JPG">
