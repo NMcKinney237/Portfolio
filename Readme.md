@@ -33,6 +33,21 @@ Quick Analysis Code and Data Package:
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Data_Result.JPG">
 </p>
 
+## Tableau | Dashboards
+
+Seen below:  
+
+A Tableau dashboard comprised of e-commerce data. Built in functionality includes a dynamic filtering system that allows you to seamlessly drill down by either city or customer, as well as a filtering system on the right hand side that allows for you to plot filtered data directly on a map viz. Lastly, there is functionality to download a JPEG/powerpoint file copy directly onto your computer.
+
+Link to Tableau dashboard:  https://public.tableau.com/profile/nathan.mckinney8188#!/vizhome/BrazilE-CommerceData/Dashboard1
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Brazilian_Dashboard.JPG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dashboard_Map.JPG">
+</p>
 
 ## Tableau | Dual Axis Mapping
 
