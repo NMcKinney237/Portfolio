@@ -66,17 +66,9 @@ Seen below:
 A presentation slide element that was used alongside data tables to show the positioning of North American producers relative to higher demand regions. The dual-axis consisted of a heat map of annual product demand alongside a bubble map illustrating producer location/production capacity.
 
 <p align="center">
-  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.JPG">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.jfif">
 </p>
 
-## Tableau | Bubble Maps
-Seen below: 
-
-A presentation slide element that showcased industry-wide storage locations relative to a manufacturing location. 
-
-<p align="center">
-  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Bubble_Map_01.JPG">
-</p>
 
 ## Excel | Pivot Tables and Dashboards 
 
