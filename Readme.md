@@ -5,7 +5,7 @@
 Below are highlights and project samples related to my understanding of various softwares and code languages.
 
 
-## Python | Data Cleaning and Development of Analysis Packages
+## Python | Data Wrangling
 
 Seen below:  A code example where I cleaned and re-organized multiple e-commerce databases into a usable data package showing granular order data. I also established code that allowed for a quick query, cutting the file size for ease of use in Excel or Tableau.
 
@@ -33,7 +33,7 @@ Quick Analysis Code and Data Package:
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Data_Result.JPG">
 </p>
 
-## Tableau | Dashboards
+## Tableau | Data Visualization
 
 Seen below:  
 
@@ -59,7 +59,7 @@ Map
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dashboard_Map.JPG">
 </p>
 
-## Tableau | Dual Axis Mapping
+## Tableau | Data Visualization
 
 Seen below:  
 
@@ -69,6 +69,16 @@ A presentation slide element that was used alongside data tables to show the pos
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Dual_Axis_Map.jfif">
 </p>
 
+## Excel / Mekko Graphics | Data Visualization
+
+Seen below:  
+
+A Mekko Graphics slide element that highlighted global product trade flows over the span of a given year. The project required the integration of multiple datasets using Python scripting and Excel index_match functions.
+
+
+<p align="center">
+  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/EU_Trade.JPG">
+</p>
 
 ## Excel | Pivot Tables and Dashboards 
 
@@ -80,14 +90,4 @@ An analytical dashboard that utilized advanced pivot table and filtering functio
   <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/Excel_Summary_Report.jpg">
 </p>
 
-## Excel / Mekko Graphics | Charts and Data Organization
 
-Seen below:  
-
-A Mekko Graphics slide element that highlighted global product trade flows over the span of a given year. The project required the integration of multiple datasets using Python scripting and Excel index_match functions.
-
-
-
-<p align="center">
-  <img src="https://github.com/NMcKinney237/Portfolio/blob/master/Graphics/EU_Trade.JPG">
-</p>
