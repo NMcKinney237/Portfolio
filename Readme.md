@@ -2,6 +2,7 @@
 
 Below are highlights and project samples related to my understanding of various softwares and code languages.
 
+
 ## Tableau | Data Visualization
 
 Seen below:  
